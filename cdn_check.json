@@ -1,0 +1,27 @@
+{
+  "01_inventory": {
+    "url": "https://gcore.jsdelivr.net/gh/tomlen045/sshsweep@573ea90c6f075077a67d78c4fd7722d9a8ee520c/shots/01_inventory.png",
+    "ok": true,
+    "md5": "24a5d74a477e60c5f32f53a00a22e1ee"
+  },
+  "02_sweep": {
+    "url": "https://gcore.jsdelivr.net/gh/tomlen045/sshsweep@2bbd70cde40375676bad1f419c9d7fe608e466f0/shots/02_sweep.png",
+    "ok": true,
+    "md5": "df000cebe9e75e75f668baacf6c341c8"
+  },
+  "03_drift": {
+    "url": "https://gcore.jsdelivr.net/gh/tomlen045/sshsweep@335dd73afd523511273929a43ff919e103ea0593/shots/03_drift.png",
+    "ok": true,
+    "md5": "0500bfa553134415417693c576c9a668"
+  },
+  "04_suite": {
+    "url": "https://gcore.jsdelivr.net/gh/tomlen045/sshsweep@27cb76686c19445db06c2b7d7f2824be71b3a844/shots/04_suite.png",
+    "ok": true,
+    "md5": "11659d4142572f85c7bc7369a7805992"
+  },
+  "05_selftest": {
+    "url": "https://gcore.jsdelivr.net/gh/tomlen045/sshsweep@94bbc501adda5a50a35e8ce864f78c05483b76b4/shots/05_selftest.png",
+    "ok": true,
+    "md5": "47b9f0be3328caef973af47a7e853938"
+  }
+}
